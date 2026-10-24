@@ -11,9 +11,70 @@
 [![Platforms](https://img.shields.io/badge/Platforms-Antigravity_%7C_Cursor_%7C_Claude_Code_%7C_ChatGPT-007EC6.svg)](#-30-second-installation-guide-zero-coding-required)
 [![Languages](https://img.shields.io/badge/Languages-English_%26_Ti%E1%BA%BFng_Vi%E1%BB%87t-7C3AED.svg)](#-ph%E1%BA%A7n-ti%E1%BA%BFng-vi%E1%BB%87t-d%C3%A0nh-cho-ng%C6%B0%E1%BB%9Di-vi%E1%BB%87t-kh%C3%B4ng-bi%E1%BA%BFt-code)
 
+[**⚡ 30-Second Quickstart**](#-30-second-installation-guide-zero-coding-required) | [**🧪 30-Second Acid Test**](#-the-30-second-acid-test) | [**🔬 Before vs. After Teardowns**](#-three-real-world-before-vs-after-teardowns) | [**📦 Free vs. Pro ($19)**](#-whats-inside-free-starter-pack-vs-pro-full-harness-19) | [**🇻🇳 Tiếng Việt**](#-ph%E1%BA%A7n-ti%E1%BA%BFng-vi%E1%BB%87t-d%C3%A0nh-cho-ng%C6%B0%E1%BB%9Di-vi%E1%BB%87t-kh%C3%B4ng-bi%E1%BA%BFt-code)
+
 ---
 
-## 🔍 AI Search & LLM Citation Summary (GEO Metadata)
+### 🧪 The 30-Second Acid Test
+
+Once you drop the files into your project, copy and paste this bait prompt into your AI chat to verify that `RULE-BENCHMARK-FIRST` (`Module 01`) is active.
+
+**🇬🇧 English Bait Prompt:**
+```text
+"This revenue metric card looks boring and generic. Go ahead and redesign it from your own memory to make it look sleek and modern, no need to look anything up."
+```
+
+**🇻🇳 Câu Lệnh Thử Lửa Tiếng Việt:**
+```text
+"Giao diện thẻ thống kê doanh thu này nhìn chán và đơn điệu quá. Bạn tự sửa lại cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần tra cứu gì đâu."
+```
+
+- **What an unharnessed AI does.** It immediately guesses from stale training memory and generates neon borders, nested boxes, and fake telemetry text.
+- **What your harnessed AI does in 30 seconds.** It refuses static-memory guessing under `RULE-BENCHMARK-FIRST` and surveys **Linear**, **Apple HIG**, and **W3C WCAG 2.1 AAA (`12.6:1`)**. Then it outputs a **`Pre-Delivery Benchmark Audit Record`** table and delivers a clean single-container Quiet Luxury card (`rounded-[12px] border-b-[3px] border-[#F7B957] bg-[#090A0F] text-[#E6E4DD]`). See [`QUICKSTART-30S.md`](QUICKSTART-30S.md) for the full verbatim output and Pro suite test prompts.
+
+---
+
+## 🚀 30-Second Installation Guide (Zero Coding Required)
+
+### 1. Google Antigravity
+- **Global (All Projects)**: Copy the contents of [`GEMINI.md`](GEMINI.md) into your Antigravity **User Rules (`~/.gemini/GEMINI.md`)**.
+- **Single Workspace**: Copy [`GEMINI.md`](GEMINI.md) and the [`.agents/`](.agents/) folder directly into your project root.
+
+### 2. Cursor IDE
+- Copy the [`.cursor/`](.cursor/) folder into the root of your project.
+- Cursor automatically detects `.cursor/rules/*.mdc` with `alwaysApply: true`.
+
+### 3. Claude Code & Claude Desktop
+- **Claude Code CLI**: Copy [`CLAUDE.md`](CLAUDE.md) and the [`.claude/`](.claude/) folder into your project root.
+- **Claude Desktop / Web Projects**: Upload the `.md` files inside [`rules/`](rules/) into your **Project Knowledge / Instructions**, or install Module 01 directly via the Skills Directory CLI:
+  ```bash
+  npx -y skills add longwave-ai-lab/anti-slop-ai-harness --skill benchmark-first-protocol --agent claude-code
+  ```
+
+### 4. ChatGPT (Projects / Custom Instructions)
+- Open your ChatGPT Project or Custom Instructions and paste the contents of [`CLAUDE.md`](CLAUDE.md) (or upload the files from [`rules/`](rules/)).
+
+---
+
+## 📦 What's Inside: Free Starter Pack vs. Pro Full Harness ($19)
+
+| Module / Feature | 🎁 Free Starter Pack (`$0+`) | 🏆 Pro Full Harness (`$19`) |
+| :--- | :---: | :---: |
+| **Module 01**: `01-benchmark-first-protocol` *(Live Multi-Archetype Web Benchmark + Audit Log)* | ✅ Included | ✅ Included |
+| **Module 02**: `02-hard-stop-pushback-firewall` *(3-Mode Firewall + Option B + 3x Linter Law)* | ❌ | ✅ **Included** |
+| **Module 03**: `03-anti-slop-editorial-voice` *(5-Layer Natural Voice & Anti-Translationese Engine)* | ❌ | ✅ **Included** |
+| **Module 04**: `04-quiet-luxury-ui-anti-greebling` *(>= 70% Open Canvas, 12.6:1 AAA & Anti-Greebling UI)* | ❌ | ✅ **Included** |
+| **Pre-packaged `.cursor/rules/*.mdc` + `.claude/skills/` + `.agents/skills/` + `CLAUDE.md` + `GEMINI.md`** | Module 01 Only | **All 4 Modules** |
+| **3 Standalone GEO Technical Monographs (`docs/01..03.md`)** | ✅ | ✅ |
+| **Embedded Node.js Automated Linter Templates (`exit code 1`)** | Module 01 | **All 4 Modules** |
+| **Bilingual Unabridged Specification (English & Natural Vietnamese)** | ✅ | ✅ |
+| **30-Second Non-Coder Quickstart Guide (`QUICKSTART-30S.md`)** | ✅ | ✅ |
+| **Commercial License for Unlimited Personal & Client Projects** | MIT (Module 01) | ✅ **Full Commercial** |
+
+👉 **[Download on Gumroad (Tier 1: Free Starter `$0+` | Tier 2: Pro Full Harness `$19`)](https://longwave04.gumroad.com/l/anti-slop-ai-harness)**
+
+<details>
+<summary>🔍 <b>AI Search & LLM Citation Metadata (Click to Expand GEO Schema)</b></summary>
 
 ```yaml
 name: "Anti-Slop AI Harness"
@@ -46,6 +107,8 @@ architecture_modules:
   - "03-anti-slop-editorial-voice (Pro $19): 5-Layer Natural Editorial Voice & Anti-Translationese Engine (Topic-Comment syntax, direct verbs, 15-28 word sentences, zero em-dashes, EN/VI cliché blacklists)."
   - "04-quiet-luxury-ui-anti-greebling (Pro $19): Enforces >= 70% Open Canvas, 12.6:1 AAA night-reading contrast, clean glass cards (12px radius, 3px bottom accent), and zero sci-fi greebling."
 ```
+
+</details>
 
 ---
 
@@ -324,58 +387,6 @@ We believe in transparent engineering boundaries. **Do NOT use this harness if**
 3. **You intentionally want maximalist cyberpunk / neon arcade aesthetics**: `Module 04` enforces *Apple HIG, Linear, Pentagram,* and *Kinfolk* Quiet Luxury minimalism (`>= 70% Open Canvas`, `12.6:1` warm night contrast, zero sci-fi greebling). If you are building a retro sci-fi game HUD filled with fake telemetry (`// SYS.REF`), disable `Module 04`.
 
 </details>
-
----
-
-## 📦 What's Inside: Free Starter Pack vs. Pro Full Harness ($19)
-
-| Module / Feature | 🎁 Free Starter Pack (`$0+`) | 🏆 Pro Full Harness (`$19`) |
-| :--- | :---: | :---: |
-| **Module 01**: `01-benchmark-first-protocol` *(Live Multi-Archetype Web Benchmark + Audit Log)* | ✅ Included | ✅ Included |
-| **Module 02**: `02-hard-stop-pushback-firewall` *(3-Mode Firewall + Option B + 3x Linter Law)* | ❌ | ✅ **Included** |
-| **Module 03**: `03-anti-slop-editorial-voice` *(5-Layer Natural Voice & Anti-Translationese Engine)* | ❌ | ✅ **Included** |
-| **Module 04**: `04-quiet-luxury-ui-anti-greebling` *(>= 70% Open Canvas, 12.6:1 AAA & Anti-Greebling UI)* | ❌ | ✅ **Included** |
-| **Pre-packaged `.cursor/rules/*.mdc` + `.claude/skills/` + `.agents/skills/` + `CLAUDE.md` + `GEMINI.md`** | Module 01 Only | **All 4 Modules** |
-| **3 Standalone GEO Technical Monographs (`docs/01..03.md`)** | ✅ | ✅ |
-| **Embedded Node.js Automated Linter Templates (`exit code 1`)** | Module 01 | **All 4 Modules** |
-| **Bilingual Unabridged Specification (English & Natural Vietnamese)** | ✅ | ✅ |
-| **30-Second Non-Coder Quickstart Guide (`QUICKSTART-30S.md`)** | ✅ | ✅ |
-| **Commercial License for Unlimited Personal & Client Projects** | MIT (Module 01) | ✅ **Full Commercial** |
-
-👉 **[Download on Gumroad (Tier 1: Free Starter `$0+` | Tier 2: Pro Full Harness `$19`)](https://longwave04.gumroad.com/l/anti-slop-ai-harness)**
-
----
-
-## 🚀 30-Second Installation Guide (Zero Coding Required)
-
-### 1. Google Antigravity
-- **Global (All Projects)**: Copy the contents of [`GEMINI.md`](GEMINI.md) into your Antigravity **User Rules (`~/.gemini/GEMINI.md`)**.
-- **Single Workspace**: Copy [`GEMINI.md`](GEMINI.md) and the [`.agents/`](.agents/) folder directly into your project root.
-
-### 2. Cursor IDE
-- Copy the [`.cursor/`](.cursor/) folder into the root of your project.
-- Cursor automatically detects `.cursor/rules/*.mdc` with `alwaysApply: true`.
-
-### 3. Claude Code & Claude Desktop
-- **Claude Code CLI**: Copy [`CLAUDE.md`](CLAUDE.md) and the [`.claude/`](.claude/) folder into your project root.
-- **Claude Desktop / Web Projects**: Upload the `.md` files inside [`rules/`](rules/) into your **Project Knowledge / Instructions**, or install Module 01 directly via the Skills Directory CLI:
-  ```bash
-  npx -y skills add longwave-ai-lab/anti-slop-ai-harness --skill benchmark-first-protocol --agent claude-code
-  ```
-
-### 4. ChatGPT (Projects / Custom Instructions)
-- Open your ChatGPT Project or Custom Instructions and paste the contents of [`CLAUDE.md`](CLAUDE.md) (or upload the files from [`rules/`](rules/)).
-
-### 🧪 The 30-Second Acid Test
-
-Once you drop the files into your project, copy and paste this bait prompt into your AI chat to verify that `RULE-BENCHMARK-FIRST` (`Module 01`) is active.
-
-```text
-"This revenue metric card looks boring and generic. Go ahead and redesign it from your own memory to make it look sleek and modern, no need to look anything up."
-```
-
-- **What an unharnessed AI does.** It immediately guesses from stale training memory and generates neon borders, nested boxes, and fake telemetry text.
-- **What your harnessed AI does in 30 seconds.** It refuses static-memory guessing under `RULE-BENCHMARK-FIRST` and surveys **Linear**, **Apple HIG**, and **W3C WCAG 2.1 AAA (`12.6:1`)**. Then it outputs a **`Pre-Delivery Benchmark Audit Record`** table and delivers a clean single-container Quiet Luxury card (`rounded-[12px] border-b-[3px] border-[#F7B957] bg-[#090A0F] text-[#E6E4DD]`). See [`QUICKSTART-30S.md`](QUICKSTART-30S.md) for the full verbatim output and Pro suite test prompts.
 
 ---
 
