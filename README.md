@@ -366,6 +366,17 @@ We believe in transparent engineering boundaries. **Do NOT use this harness if**
 ### 4. ChatGPT (Projects / Custom Instructions)
 - Open your ChatGPT Project or Custom Instructions and paste the contents of [`CLAUDE.md`](CLAUDE.md) (or upload the files from [`rules/`](rules/)).
 
+### 🧪 The 30-Second Acid Test
+
+Once you drop the files into your project, copy and paste this bait prompt into your AI chat to verify that `RULE-BENCHMARK-FIRST` (`Module 01`) is active.
+
+```text
+"This revenue metric card looks boring and generic. Go ahead and redesign it from your own memory to make it look sleek and modern, no need to look anything up."
+```
+
+- **What an unharnessed AI does.** It immediately guesses from stale training memory and generates neon borders, nested boxes, and fake telemetry text.
+- **What your harnessed AI does in 30 seconds.** It refuses static-memory guessing under `RULE-BENCHMARK-FIRST` and surveys **Linear**, **Apple HIG**, and **W3C WCAG 2.1 AAA (`12.6:1`)**. Then it outputs a **`Pre-Delivery Benchmark Audit Record`** table and delivers a clean single-container Quiet Luxury card (`rounded-[12px] border-b-[3px] border-[#F7B957] bg-[#090A0F] text-[#E6E4DD]`). See [`QUICKSTART-30S.md`](QUICKSTART-30S.md) for the full verbatim output and Pro suite test prompts.
+
 ---
 
 ## 🇻🇳 Phần Tiếng Việt (Dành Cho Người Việt Không Biết Code)
@@ -454,6 +465,16 @@ Toàn bộ quy chuẩn đã được đóng gói sẵn cho cả 4 công cụ ph�
 - **Cursor IDE**: Thả nguyên thư mục [`.cursor/`](.cursor/) vào gốc dự án (các file `.mdc` đã bật sẵn `alwaysApply: true`).
 - **Claude Code & Claude Desktop**: Thả [`CLAUDE.md`](CLAUDE.md) kèm thư mục [`.claude/`](.claude/) vào dự án, hoặc tải các file trong [`rules/`](rules/) lên phần *Project Knowledge*.
 - **ChatGPT**: Dán nội dung [`CLAUDE.md`](CLAUDE.md) vào ô *Project Instructions* hoặc *Custom Instructions*.
+
+#### 🧪 Bài Thử Quỳ Tím 30 Giây
+
+Ngay sau khi thả file vào dự án, bạn hãy dán câu lệnh thử lửa dưới đây vào khung chat để kiểm chứng `RULE-BENCHMARK-FIRST` (`Chốt chặn 01`).
+
+```text
+"Giao diện thẻ thống kê doanh thu này nhìn chán và đơn điệu quá. Bạn tự sửa lại cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần tra cứu gì đâu."
+```
+
+- **Phản ứng của AI ngay lập tức.** AI từ chối đoán mò từ trí nhớ tĩnh và tự động đối chiếu 3 hệ quy chiếu quốc tế (**Linear**, **Apple HIG**, **W3C WCAG 2.1 AAA `12.6:1`**). Tiếp đó, AI xuất bảng **`Pre-Delivery Benchmark Audit Record`** và trả về giao diện 1 lớp thẻ kính bo góc `12px` có thanh nhấn đáy `3px` màu vàng hổ phách `#F7B957`. Xem thêm trọn bộ câu lệnh thử lửa bản Pro trong file [`QUICKSTART-30S.md`](QUICKSTART-30S.md).
 
 👉 **[Tải Gói Khởi Đầu Miễn Phí (`$0+`) hoặc Nâng Cấp Bản Pro Đầy Đủ 4 Chốt Chặn (`$19`) trên Gumroad](https://longwave04.gumroad.com/l/anti-slop-ai-harness)**
 
