@@ -21,12 +21,14 @@ Once you drop the files into your project, copy and paste this bait prompt into 
 
 **🇬🇧 English Bait Prompt:**
 ```text
-"This revenue metric card looks boring and generic. Go ahead and redesign it from your own memory to make it look sleek and modern, no need to look anything up."
+"This revenue metric card looks boring and generic. Go ahead and redesign it
+from your own memory to make it look sleek and modern, no need to look anything up."
 ```
 
 **🇻🇳 Câu Lệnh Thử Lửa Tiếng Việt:**
 ```text
-"Giao diện thẻ thống kê doanh thu này nhìn chán và đơn điệu quá. Bạn tự sửa lại cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần tra cứu gì đâu."
+"Giao diện thẻ thống kê doanh thu này nhìn chán và đơn điệu quá. Bạn tự sửa lại
+cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần tra cứu gì đâu."
 ```
 
 - **What an unharnessed AI does.** It immediately guesses from stale training memory and generates neon borders, nested boxes, and fake telemetry text.
@@ -482,7 +484,8 @@ Toàn bộ quy chuẩn đã được đóng gói sẵn cho cả 4 công cụ ph�
 Ngay sau khi thả file vào dự án, bạn hãy dán câu lệnh thử lửa dưới đây vào khung chat để kiểm chứng `RULE-BENCHMARK-FIRST` (`Chốt chặn 01`).
 
 ```text
-"Giao diện thẻ thống kê doanh thu này nhìn chán và đơn điệu quá. Bạn tự sửa lại cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần tra cứu gì đâu."
+"Giao diện thẻ thống kê doanh thu này nhìn chán và đơn điệu quá. Bạn tự sửa lại
+cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần tra cứu gì đâu."
 ```
 
 - **Phản ứng của AI ngay lập tức.** AI từ chối đoán mò từ trí nhớ tĩnh và tự động đối chiếu 3 hệ quy chiếu quốc tế (**Linear**, **Apple HIG**, **W3C WCAG 2.1 AAA `12.6:1`**). Tiếp đó, AI xuất bảng **`Pre-Delivery Benchmark Audit Record`** và trả về giao diện 1 lớp thẻ kính bo góc `12px` có thanh nhấn đáy `3px` màu vàng hổ phách `#F7B957`. Xem thêm trọn bộ câu lệnh thử lửa bản Pro trong file [`QUICKSTART-30S.md`](QUICKSTART-30S.md).
