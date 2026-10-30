@@ -8,11 +8,12 @@ description: "Mandatory Multi-Archetype World-Class Benchmark Protocol. Activate
 
 ## PART A: ENGLISH SPECIFICATION
 
-### 1. Core Invariant: Zero Memory-Only Patching
+### 1. Core Invariant: Two-Phase Premise Audit & Zero Memory-Only Patching
 
-Whenever the user critiques an output, points out a flaw (in UI/UX, Typography, Motion Graphics, Copywriting, Product Strategy, or System Architecture), or proposes a new feature or design direction:
+Whenever the user asks a leading question, critiques an output, points out a flaw (in UI/UX, Typography, Motion Graphics, Copywriting, Product Strategy, or System Architecture), or proposes a new feature or tool:
 
-1. **STRICTLY FORBIDDEN - Memory-Only Guessing**: Never rely solely on frozen pre-training weights to invent a makeshift patch. Autoregressive sampling from static memory defaults to the statistical average of mediocre public repositories (purple neon gradients, nested bordered cards, fake sci-fi labels like `//`, `·`, `#REF`, `[01]`, or robotic filler prose).
+0. **Phase 1 - Premise Audit Against Option 0 (`Anti-Leading-Question Compliance`)**: When the user asks a leading question (*"Should we switch to tool X?"* or *"Should we add a new rule layer?"*), never assume the premise is automatically valid. Evaluate **Option 0 (Keep Current State / Zero Added Complexity)** first by checking whether existing tools already solve the problem or whether maintenance cost outweighs measurable gain. If Option 0 wins, state so directly at line 1 and stop without inventing busywork.
+1. **STRICTLY FORBIDDEN - Memory-Only Guessing**: Once a real defect or upgrade passes Phase 1, never rely solely on frozen pre-training weights to invent a makeshift patch. Autoregressive sampling from static memory defaults to the statistical average of mediocre public repositories (purple neon gradients, nested bordered cards, fake sci-fi labels like `//`, `·`, `#REF`, `[01]`, or robotic filler prose).
 2. **Step 1 - Mandatory Multi-Archetype Live Benchmark**: Immediately invoke live web search, URL inspection, or browser tools (`search_web`, `read_url_content`, or equivalent) to survey multiple world-class reference archetypes across four distinct domains:
    - **Domain 1 - Product & Interface Design**: *Apple Human Interface Guidelines (HIG), Stripe Press, Linear, Raycast, Vercel*
    - **Domain 2 - Editorial & Brand Identity**: *Pentagram, Kinfolk, The New York Times Visual Investigations, Monocle*
@@ -22,7 +23,7 @@ Whenever the user critiques an output, points out a flaw (in UI/UX, Typography, 
 3. **Step 2 - Objective Self-Critique vs. Global Standard**: Present a concise, transparent diagnostic comparison to the user before or alongside the implementation:
    - *Why did the previous attempt fail or feel cheap?* (Identify the exact root defect: e.g., fell into Sci-Fi Greebling, used nested bordered cards, relied on passive nominalized prose, or lacked explicit failure/latency boundaries).
    - *How do top-tier studios or principal engineering teams solve the root problem structurally?*
-4. **Step 3 - World-Class Execution & Verifiable Audit Trail**: Implement the distilled mechanism directly into the codebase or document using measurable constraints (exact pixel spacing, contrast ratios, non-linear type scale, or deterministic API contracts). Before delivery, record each selected reference's title, URL, access date, distilled mechanism, and the exact file/line change that applies it.
+4. **Step 3 - World-Class Execution & Dual-Layer Verification Honesty**: Implement the distilled mechanism directly into the codebase or document using measurable constraints (exact pixel spacing, contrast ratios, non-linear type scale, or deterministic API contracts). Separate deterministic Layer 1 `HARD` checks (`PASS` / `HARD_FAIL`) from Layer 2 execution states (`SUCCESS`, `NOT_RUN`, `TOOL_ERROR`) and verdicts (`UNDETERMINED`, `GREY_ZONE_WHITE_FLAG`), never fabricating a fake `1.0` pass score when a check was skipped.
 
 ---
 
@@ -134,10 +135,11 @@ console.log(`[PASS] Module 01 Benchmark Audit verified (${matchedArchetypes.leng
 
 ## PHẦN B: QUY CHUẨN TIẾNG VIỆT (VIETNAMESE SPECIFICATION)
 
-### 1. Nguyên Tắc Bất Biến: Tuyệt Đối Không Sửa Lỗi Bằng Trí Nhớ Tĩnh (`Zero Memory-Only Patching`)
+### 1. Nguyên Tắc Bất Biến: Thẩm Định Tiền Đề 2 Pha (`Zero Memory-Only Patching`)
 
-Mỗi khi người dùng góp ý, chê một chi tiết chưa đạt (về Giao diện, Chữ nghĩa, Chuyển động, Văn phong hay Kỹ thuật) hoặc nêu ý tưởng mới, bạn phải tuân thủ 4 bước sau:
+Mỗi khi người dùng đặt câu hỏi dẫn dắt, góp ý chi tiết chưa đạt (về Giao diện, Chữ nghĩa, Chuyển động, Văn phong hay Kỹ thuật) hoặc nêu ý tưởng mới, bạn phải tuân thủ quy trình 2 pha sau:
 
+0. **Pha 1 - Thẩm Định Tiền Đề Trước Phương Án 0 (`Anti-Leading-Question Compliance`)**. Khi người dùng hỏi gợi ý thêm công cụ hay quy tắc mới, không mặc định tiền đề đó là đúng. Hãy đối chiếu với **Phương án 0 (Giữ nguyên hiện trạng)** trước tiên để xem hệ thống hiện có đã giải quyết tốt chưa. Nếu chi phí phức tạp vượt lợi ích đo được, hãy trả lời thẳng nên giữ nguyên và dừng lại ngay.
 1. **CẤM TUYỆT ĐỐI tự chế bản vá từ trí nhớ sẵn có**. Không bao giờ tự suy diễn hoặc đắp vá tạm bợ bằng thói quen cũ của AI (như nhồi nhét ký hiệu giả kỹ thuật `//`, `·`, `#REF`, `[01]`, đóng khung viền chồng chéo, hoặc viết văn mẫu sáo rỗng).
 2. **Bước 1 - Tự Động Khảo Sát Đa Hệ Quy Chiếu Tinh Hoa Thế Giới (`Mandatory Multi-Archetype Web Benchmark`)**. Lập tức gọi công cụ tìm kiếm web (`search_web`, `read_url_content`, hoặc trình duyệt) để khảo sát rộng khắp 4 nhóm hệ quy chiếu hàng đầu thế giới:
    - **Nhóm 1 - Thiết kế Sản phẩm & Giao diện**: *Apple HIG, Stripe, Linear, Raycast, Vercel*
@@ -148,7 +150,7 @@ Mỗi khi người dùng góp ý, chê một chi tiết chưa đạt (về Giao 
 3. **Bước 2 - Phân Tích Đối Sánh Khách Quan (`Self-Critique vs. Global Standard`)**. Chỉ rõ ngắn gọn cho người dùng trước hoặc ngay khi sửa:
    - *Vì sao cách làm cũ bị lỗi hoặc kém sang?* (Ví dụ: Mắc lỗi Sci-Fi Greebling lạm dụng dấu gạch chéo `//`, mã số giả, chữ quá nhỏ, câu văn dịch ngô nghê, hoặc thiếu kiểm soát lỗi hệ thống).
    - *Tinh hoa thế giới giải quyết tận gốc bài toán đó bằng cơ chế nào?*
-4. **Bước 3 - Thi Công Chuẩn Quốc Tế & Ghi Hồ Sơ Kiểm Chứng (`World-Class Execution`)**. Áp dụng trực tiếp giải pháp đã chắt lọc vào sản phẩm với thông số rõ ràng, sạch sẽ, không thỏa hiệp. Trước khi bàn giao, bắt buộc ghi lại tên nguồn, URL, ngày truy cập, cơ chế học hỏi và dòng code thay đổi cụ thể.
+4. **Bước 3 - Thi Công Chuẩn Quốc Tế & Kiểm Chứng Hai Lớp Trung Thực (`World-Class Execution`)**. Áp dụng trực tiếp giải pháp đã chắt lọc vào sản phẩm với thông số rõ ràng, sạch sẽ. Bắt buộc tách bạch kết luận đánh giá (`PASS`, `HARD_FAIL`, `UNDETERMINED`, `GREY_ZONE_WHITE_FLAG`) với trạng thái chạy công cụ (`SUCCESS`, `NOT_RUN`, `TOOL_ERROR`). Khi bỏ qua bước kiểm tra ngữ nghĩa, tuyệt đối không tự gán điểm `1.0` giả tạo.
 
 ---
 
