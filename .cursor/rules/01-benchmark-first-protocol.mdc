@@ -206,7 +206,7 @@ Trước khi bàn giao bất kỳ tính năng hay bản sửa lỗi nào, AI b�
 | 2 | W3C WCAG 2.1 AAA (SC 1.4.6) | https://www.w3.org/TR/WCAG21/#contrast-enhanced | 2026-10-22 | Khóa chữ trắng ấm `#E6E4DD` trên nền `#090A0F` (`12.6:1`) chống lóa mắt loạn thị. | `src/styles/tokens.css` (Dòng 4-19) |
 ```
 
-Để chạy kiểm tra tự động bằng script Node.js đã đính kèm ở Phần A, bạn lưu đoạn mã thành file `scripts/verify_benchmark_audit.mjs` và chạy lệnh sau trên cửa sổ dòng lệnh:
+Để chạy kiểm tra tự động bằng script Node.js đã đính kèm ở Phần A, bạn lưu đoạn mã thành file `scripts/verify_benchmark_audit.mjs` và chạy lệnh sau trên terminal:
 
 ```bash
 node scripts/verify_benchmark_audit.mjs BENCHMARK-AUDIT.md
