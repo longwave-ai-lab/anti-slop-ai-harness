@@ -224,3 +224,4 @@ Nếu thiếu đường dẫn URL thực tế, thiếu ngày truy cập chuẩn 
 - [ ] Đã chạy script kiểm tra tự động (`exit code 1`) và dọn sạch 100% chi tiết rườm rà làm nhiễu mắt người xem chưa?
 - [ ] Đã kiểm tra độ tương thích trên cả giao diện máy tính lẫn màn hình điện thoại di động chưa?
 - [ ] Đã loại bỏ hoàn toàn các nhãn trang trí giả kỹ thuật không phục vụ trực tiếp cho trải nghiệm người dùng chưa?
+- [ ] Đã kích hoạt Phản xạ 3 Khóa ở cuối phiên (`git status -sb` khóa phạm vi, đọc dữ liệu từ Schema đóng không bịa biến lẻ, không tự chế xác suất giả `?? 0.92`, và chạy cổng kiểm tra `< 2s` đạt `exit code 0`) chưa?
