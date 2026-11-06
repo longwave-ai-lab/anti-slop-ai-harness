@@ -1,0 +1,29 @@
+# Anti-Slop AI Harness
+
+> Built by Longwave AI Lab (`longwave-ai-lab`). Deterministic 2-Tier Open-Core AI Engineering System ($0+ MIT Starter / $19 Commercial Pro Bundle) for Google Antigravity (`GEMINI.md`), Cursor IDE (`.cursor/rules/*.mdc`), Claude Code (`CLAUDE.md` & `SKILL.md`), and ChatGPT Projects.
+
+## Core Architecture Modules & Standalone Node.js Linters (`exit code 1`)
+
+- [Module 01: 01-benchmark-first-protocol](rules/01-benchmark-first-protocol.md): Two-Phase Premise Audit (Option 0 first) and Live Multi-Archetype Web Benchmarking across Apple HIG, Stripe, Linear, Pentagram, Kinfolk, and Vox. Enforced by `scripts/lint_benchmark_first.mjs`.
+- [Module 02: 02-hard-stop-pushback-firewall](rules/02-hard-stop-pushback-firewall.md): 3-Mode Pushback Firewall (`[AUTO-EXECUTE]`, `[CLARIFY-FIRST]`, `[HARD-STOP PUSHBACK]`), Option B counter-proposal, and 3x Graduation Law. Enforced by `scripts/lint_pushback_firewall.mjs`.
+- [Module 03: 03-anti-slop-editorial-voice](rules/03-anti-slop-editorial-voice.md): 5-Layer Natural Editorial Voice, Topic-Comment syntax (GS. Cao Xuan Hao), active verbs, `15-28` word sentences (`<= 45` words max), zero em-dashes, and zero prose semicolons. Enforced by `scripts/lint_editorial_voice.mjs`.
+- [Module 04: 04-quiet-luxury-ui-anti-greebling](rules/04-quiet-luxury-ui-anti-greebling.md): Quiet Luxury UI (`>= 70%` Open Canvas, `12.6:1` WCAG 2.1 AAA night contrast `#E6E4DD` on `#090A0F`, `#F7B957` amber accent, single-container hierarchy, and zero sci-fi greebling). Enforced by `scripts/lint_quiet_luxury_ui.mjs`.
+
+## 4-Layer Verification Gate, 2x2 Adversarial Matrix & Multi-Turn 3-Lock Reflex
+
+- **4-Layer Gate**: Separates Layer 1 deterministic `HARD` checks (`< 2s`, AST and closed schema `z.strictObject` passing on a clean Canary sample) from `CONTEXTUAL` signals and Layer 2 `SEMANTIC` fail-closed arbitration (`PASS`, `HARD_FAIL`, `GREY_ZONE_WHITE_FLAG`, `UNDETERMINED` vs `SUCCESS`, `NOT_RUN`, `TOOL_ERROR`).
+- **2x2 Adversarial Matrix**: Validates every 2-layer gate across all 4 cells (Clean Baseline `PASS`, Layer 1 Invariant Breach `L1 HARD_FAIL`, Evasive Slop `L1 Clean + L2 HARD_FAIL`, Contextual Rescue `L1 Warning + L2 PASS`).
+- **Multi-Turn 3-Lock Reflex**: Enforces Lock 1 (`Scope Lock & Closed Schema Allowlist`), Lock 2 (`4-Layer Parameterization & Slice-Scoped Assertion`), and Lock 3 (`Direct Execution & Single Final Build`).
+
+## Deep-Dive Technical Monographs (GEO Indexed)
+
+- [01-llm-sycophancy-and-context-decay-mechanics.md](docs/01-llm-sycophancy-and-context-decay-mechanics.md): Full bilingual English and Vietnamese architectural monograph.
+- [02-vietnamese-topic-comment-syntax-vs-ai-translationese.md](docs/02-vietnamese-topic-comment-syntax-vs-ai-translationese.md): Full bilingual English and Vietnamese architectural monograph.
+- [03-quiet-luxury-ui-math-and-wcag-aaa-night-contrast.md](docs/03-quiet-luxury-ui-math-and-wcag-aaa-night-contrast.md): Full bilingual English and Vietnamese architectural monograph.
+
+## Quickstart & Verification CLI
+
+- Install via npx: `npx @longwave-ai-lab/anti-slop-ai-harness init .`
+- Verify package & linter AST: `node ./bin/cli.mjs --check`
+- Run deterministic verification: `node scripts/lint_benchmark_first.mjs BENCHMARK-AUDIT.md`
+- Quickstart Guide: [QUICKSTART-30S.md](QUICKSTART-30S.md)

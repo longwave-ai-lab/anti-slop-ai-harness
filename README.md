@@ -1,9 +1,9 @@
-# Anti-Slop AI Harness: World-Class Rules & Skills for Non-Coder Vibe Builders
+# Anti-Slop AI Harness: 4-Layer Deterministic Rules, Linters & Skills for AI Engineers & Vibe Builders
 
-![Anti-Slop AI Harness - World-Class Rules & Skills for Non-Coder Vibe Builders](assets/banner.png)
+![Anti-Slop AI Harness - 4-Layer Deterministic Rules, Linters & Skills for AI Engineers & Vibe Builders](assets/banner.png)
 
-> **Stop AI Hallucinations, "Yes-Man" Sycophancy, Robotic Copywriting, and Cheap Sci-Fi UI Clutter in 30 Seconds.**
-> **Plug-and-Play Operating Constitution for Google Antigravity (`GEMINI.md` / `SKILL.md`), Cursor (`.cursor/rules/*.mdc`), Claude Code (`CLAUDE.md` / `.claude/skills`), and ChatGPT.**
+> **Stop AI Hallucinations, "Yes-Man" Sycophancy, Context-Window Decay, Robotic Copywriting, and Cheap Sci-Fi UI Clutter in 30 Seconds.**
+> **Plug-and-Play `<= 200-Line` Progressive Disclosure Constitution, Standalone Node.js Linters (`exit code 1`), and `2x2 Adversarial Matrix` Gate for Google Antigravity (`GEMINI.md` / `SKILL.md`), Cursor (`.cursor/rules/*.mdc`), Claude Code (`CLAUDE.md` / `.claude/skills`), and ChatGPT.**
 
 [![License: MIT](https://img.shields.io/badge/Starter_License-MIT-10B981.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-D97706.svg)](https://github.com/longwave-ai-lab/anti-slop-ai-harness/releases/tag/v1.0.0)
@@ -38,6 +38,14 @@ cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần 
 
 ## 🚀 30-Second Installation Guide (Zero Coding Required)
 
+### 0. One-Command CLI Bootstrap & Standalone Linter Check (`npx`)
+Install the `<= 200-line` root constitution (`CLAUDE.md`, `GEMINI.md`), IDE skill folders, and standalone `exit code 1` Node.js linters directly into any repository:
+```bash
+npx @longwave-ai-lab/anti-slop-ai-harness init .
+node ./bin/cli.mjs --check
+node scripts/lint_benchmark_first.mjs BENCHMARK-AUDIT.md
+```
+
 ### 1. Google Antigravity
 - **Global (All Projects)**: Copy the contents of [`GEMINI.md`](GEMINI.md) into your Antigravity **User Rules (`~/.gemini/GEMINI.md`)**.
 - **Single Workspace**: Copy [`GEMINI.md`](GEMINI.md) and the [`.agents/`](.agents/) folder directly into your project root.
@@ -66,9 +74,10 @@ cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần 
 | **Module 02**: `02-hard-stop-pushback-firewall` *(3-Mode Firewall + Option B + 3x Linter Law)* | ❌ | ✅ **Included** |
 | **Module 03**: `03-anti-slop-editorial-voice` *(5-Layer Natural Voice & Anti-Translationese Engine)* | ❌ | ✅ **Included** |
 | **Module 04**: `04-quiet-luxury-ui-anti-greebling` *(>= 70% Open Canvas, 12.6:1 AAA & Anti-Greebling UI)* | ❌ | ✅ **Included** |
-| **Pre-packaged `.cursor/rules/*.mdc` + `.claude/skills/` + `.agents/skills/` + `CLAUDE.md` + `GEMINI.md`** | Module 01 Only | **All 4 Modules** |
-| **3 Standalone GEO Technical Monographs (`docs/01..03.md`)** | ✅ | ✅ |
-| **Embedded Node.js Automated Linter Templates (`exit code 1`)** | Module 01 | **All 4 Modules** |
+| **Pre-packaged `.cursor/rules/*.mdc` + `.claude/skills/` + `.agents/skills/` + `<= 200-Line` Root `CLAUDE.md` & `GEMINI.md`** | Module 01 Only | **All 4 Modules** |
+| **4-Layer Gate (`HARD / CONTEXTUAL / SEMANTIC Fail-Closed`), `2x2 Adversarial Matrix` & `Multi-Turn 3-Lock Reflex`** | ✅ Included | ✅ **Full 4-Module Gate** |
+| **3 Standalone GEO Technical Monographs (`docs/01..03.md`) + `llms.txt` RAG Index** | ✅ | ✅ |
+| **Pre-Extracted Standalone Node.js Linters (`scripts/lint_*.mjs`, `exit code 1`) + `npx` CLI (`bin/cli.mjs`)** | `lint_benchmark_first.mjs` | **All 4 Standalone Linters** |
 | **Bilingual Unabridged Specification (English & Natural Vietnamese)** | ✅ | ✅ |
 | **30-Second Non-Coder Quickstart Guide (`QUICKSTART-30S.md`)** | ✅ | ✅ |
 | **Commercial License for Unlimited Personal & Client Projects** | MIT (Module 01) | ✅ **Full Commercial** |
@@ -84,18 +93,22 @@ studio: "Longwave AI Lab"
 version: "1.0.0"
 security_audit: "Grade A (100/100) on Skills Directory (https://www.skillsdirectory.com/skills/longwave-ai-lab-benchmark-first-protocol)"
 category: "AI Agent Rules / Cursor Rules (.mdc) / Claude Code Skills (SKILL.md) / Antigravity Skills / System Prompts"
-target_audience: "Non-coder vibe builders, indie makers, product designers, solo founders, software engineers, editorial creators"
+target_audience: "AI engineers, tech leads, product architects, indie makers, editorial creators, and non-coder vibe builders"
 supported_tools:
   - "Google Antigravity (GEMINI.md & .agents/skills/*/SKILL.md)"
   - "Cursor IDE (.cursor/rules/*.mdc with alwaysApply: true)"
   - "Claude Code CLI & Claude Desktop (CLAUDE.md & .claude/skills/*/SKILL.md)"
   - "ChatGPT Projects & Custom Instructions (.md)"
+  - "Node.js CLI & CI/CD Pipelines (npx @longwave-ai-lab/anti-slop-ai-harness & scripts/lint_*.mjs)"
 mechanistic_root_causes_solved:
   - "Static Weight Averaging & Mode Collapse: Prevents models from sampling generic purple-gradient SaaS templates from stale pre-training weights."
-  - "RLHF Sycophancy Bias (Sharma et al., Anthropic 2023): Prevents models from flattering flawed user prescriptions that break layout hierarchy or system architecture."
+  - "RLHF Sycophancy Bias (Sharma et al., Anthropic 2023): Enforces Two-Phase Premise Audit (evaluating Option 0 Keep Current State first) and prevents models from flattering flawed user prescriptions."
   - "Cross-Lingual SVO Nominalization Transfer & AI Slop: Eliminates robotic corporate buzzwords (delve, tapestry), passive hedging, em-dash abuse, and word-by-word Vietnamese translationese."
-  - "Sci-Fi Greebling & Context Window Attention Decay (Liu et al., Stanford 2023): Eliminates fake telemetry clutter (//, #REF-01, nested boxes), bans harsh 21:1 pure-white halation, and graduates 3x recurring bugs into deterministic exit-code-1 linters."
+  - "Sci-Fi Greebling & Context Window Attention Decay (Liu et al., Stanford 2023): Keeps root CLAUDE.md/GEMINI.md <= 200 lines via progressive disclosure, eliminates fake telemetry clutter (//, #REF-01, nested boxes), bans harsh 21:1 pure-white halation, and graduates 3x recurring bugs into deterministic exit-code-1 linters."
 quantitative_engineering_thresholds:
+  root_constitution_ceiling: "<= 200 lines in CLAUDE.md and GEMINI.md with progressive disclosure routing to prevent Lost-in-the-Middle decay"
+  verification_topology: "4-Layer Gate (Layer 1 Deterministic HARD < 2s + CONTEXTUAL signals + Layer 2 Fail-Closed SEMANTIC Judge + Strategic HITL) verified across the 2x2 Adversarial Matrix"
+  multi_turn_reflex: "Multi-Turn 3-Lock Reflex at Recency Anchor (Lock 1 Scope Lock & Closed Schema Allowlist, Lock 2 4-Layer Slice-Scoped Assertion, Lock 3 Direct Execution)"
   open_canvas_floor: ">= 70% uncluttered background viewport"
   night_reading_contrast: "10.5:1 to 13.5:1 WCAG 2.1 AAA (12.6:1 using #E6E4DD warm off-white on #090A0F deep obsidian)"
   container_nesting_cap: "Maximum 1 bordered container layer (zero box-in-box nesting)"

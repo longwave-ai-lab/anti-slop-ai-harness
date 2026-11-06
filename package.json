@@ -1,0 +1,28 @@
+{
+  "name": "@longwave-ai-lab/anti-slop-ai-harness",
+  "version": "1.0.0",
+  "description": "Deterministic 4-Layer Anti-Slop AI Harness (Cursor .mdc Rules, Claude Code & Antigravity SKILL.md, <=200-Line Root Constitution & Exit-Code-1 Node.js Linters)",
+  "type": "module",
+  "bin": {
+    "anti-slop-ai-harness": "./bin/cli.mjs"
+  },
+  "scripts": {
+    "lint": "node scripts/lint_benchmark_first.mjs",
+    "test": "node ./bin/cli.mjs --check"
+  },
+  "keywords": [
+    "cursor-rules",
+    "claude-code",
+    "agent-skills",
+    "google-antigravity",
+    "deterministic-harness",
+    "longwave-ai-lab",
+    "anti-slop-ai-harness"
+  ],
+  "author": "Longwave AI Lab <307369959+longwave-ai-lab@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longwave-ai-lab/anti-slop-ai-harness.git"
+  }
+}
