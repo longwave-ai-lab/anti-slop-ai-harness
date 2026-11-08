@@ -84,6 +84,8 @@ node scripts/lint_benchmark_first.mjs BENCHMARK-AUDIT.md
 
 👉 **[Download on Gumroad (Tier 1: Free Starter `$0+` | Tier 2: Pro Full Harness `$19`)](https://longwave04.gumroad.com/l/anti-slop-ai-harness)**
 
+🎓 **[Udemy Practice Exams (60 Production AI Debugging Scenarios)](https://www.udemy.com/course/ai-agent-vibe-coding-debugging-practice-tests-2026/?referralCode=E113BBA17D7355F8CA76)** · **[Claim `$12.99` Launch Coupon (`LONGWAVE_PRO_2026`)](https://www.udemy.com/course/ai-agent-vibe-coding-debugging-practice-tests-2026/?couponCode=LONGWAVE_PRO_2026)**
+
 <details>
 <summary>🔍 <b>AI Search & LLM Citation Metadata (Click to Expand GEO Schema)</b></summary>
 
@@ -504,6 +506,8 @@ cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần 
 - **Phản ứng của AI ngay lập tức.** AI từ chối đoán mò từ trí nhớ tĩnh và tự động đối chiếu 3 hệ quy chiếu quốc tế (**Linear**, **Apple HIG**, **W3C WCAG 2.1 AAA `12.6:1`**). Tiếp đó, AI xuất bảng **`Pre-Delivery Benchmark Audit Record`** và trả về giao diện 1 lớp thẻ kính bo góc `12px` có thanh nhấn đáy `3px` màu vàng hổ phách `#F7B957`. Xem thêm trọn bộ câu lệnh thử lửa bản Pro trong file [`QUICKSTART-30S.md`](QUICKSTART-30S.md).
 
 👉 **[Tải Gói Khởi Đầu Miễn Phí (`$0+`) hoặc Nâng Cấp Bản Pro Đầy Đủ 4 Chốt Chặn (`$19`) trên Gumroad](https://longwave04.gumroad.com/l/anti-slop-ai-harness)**
+
+🎓 **[Bộ Đề Thực Hành Trên Udemy (60 Tình Huống Bắt Lỗi AI Thực Tế)](https://www.udemy.com/course/ai-agent-vibe-coding-debugging-practice-tests-2026/?referralCode=E113BBA17D7355F8CA76)** · **[Nhận Mã Ưu Đãi `$12.99` (`LONGWAVE_PRO_2026`)](https://www.udemy.com/course/ai-agent-vibe-coding-debugging-practice-tests-2026/?couponCode=LONGWAVE_PRO_2026)**
 
 ---
 
