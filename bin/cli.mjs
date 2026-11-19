@@ -26,9 +26,9 @@ if (cmd === '--help' || cmd === '-h') {
   console.log(' Built by Longwave AI Lab');
   console.log('====================================================================');
   console.log('Usage:');
-  console.log('  npx @longwave-ai-lab/anti-slop-ai-harness init [target-dir]   Copy rules, skills, and linters into project');
-  console.log('  npx @longwave-ai-lab/anti-slop-ai-harness --check             Verify packaged rules and linter syntax');
-  console.log('  npx @longwave-ai-lab/anti-slop-ai-harness --version           Print package version');
+  console.log('  npx --yes github:longwave-ai-lab/anti-slop-ai-harness init [target-dir]   Copy rules, skills, and linters into project');
+  console.log('  npx --yes github:longwave-ai-lab/anti-slop-ai-harness --check             Verify packaged rules and linter syntax');
+  console.log('  npx --yes github:longwave-ai-lab/anti-slop-ai-harness --version           Print package version');
   process.exit(0);
 }
 

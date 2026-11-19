@@ -41,7 +41,8 @@ cho đẹp và hiện đại hơn từ trí nhớ của bạn đi, không cần 
 ### 0. One-Command CLI Bootstrap & Standalone Linter Check (`npx`)
 Install the `<= 200-line` root constitution (`CLAUDE.md`, `GEMINI.md`), IDE skill folders, and standalone `exit code 1` Node.js linters directly into any repository:
 ```bash
-npx @longwave-ai-lab/anti-slop-ai-harness init .
+npx --yes github:longwave-ai-lab/anti-slop-ai-harness init .
+npx --yes github:longwave-ai-lab/anti-slop-ai-harness --check
 node ./bin/cli.mjs --check
 node scripts/lint_benchmark_first.mjs BENCHMARK-AUDIT.md
 ```
@@ -101,7 +102,7 @@ supported_tools:
   - "Cursor IDE (.cursor/rules/*.mdc with alwaysApply: true)"
   - "Claude Code CLI & Claude Desktop (CLAUDE.md & .claude/skills/*/SKILL.md)"
   - "ChatGPT Projects & Custom Instructions (.md)"
-  - "Node.js CLI & CI/CD Pipelines (npx @longwave-ai-lab/anti-slop-ai-harness & scripts/lint_*.mjs)"
+  - "Node.js CLI & CI/CD Pipelines (npx --yes github:longwave-ai-lab/anti-slop-ai-harness & scripts/lint_*.mjs)"
 mechanistic_root_causes_solved:
   - "Static Weight Averaging & Mode Collapse: Prevents models from sampling generic purple-gradient SaaS templates from stale pre-training weights."
   - "RLHF Sycophancy Bias (Sharma et al., Anthropic 2023): Enforces Two-Phase Premise Audit (evaluating Option 0 Keep Current State first) and prevents models from flattering flawed user prescriptions."

@@ -23,7 +23,8 @@
 
 ## Quickstart & Verification CLI
 
-- Install via npx: `npx @longwave-ai-lab/anti-slop-ai-harness init .`
-- Verify package & linter AST: `node ./bin/cli.mjs --check`
+- Install via npx: `npx --yes github:longwave-ai-lab/anti-slop-ai-harness init .`
+- Verify package & linter AST via npx: `npx --yes github:longwave-ai-lab/anti-slop-ai-harness --check`
+- Verify local package & linter AST: `node ./bin/cli.mjs --check`
 - Run deterministic verification: `node scripts/lint_benchmark_first.mjs BENCHMARK-AUDIT.md`
 - Quickstart Guide: [QUICKSTART-30S.md](QUICKSTART-30S.md)
